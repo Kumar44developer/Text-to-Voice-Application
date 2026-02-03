@@ -21,3 +21,5 @@ body{
     padding: 50px;
     background: linear-gradient(120deg,#f6d365,#fda085);
     border-radius: 10px;
+    overflow: hidden;
+}
