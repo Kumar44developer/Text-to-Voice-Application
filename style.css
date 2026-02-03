@@ -23,3 +23,6 @@ body{
     border-radius: 10px;
     overflow: hidden;
 }
+
+.container h1{
+    text-align: center;
