@@ -7,3 +7,6 @@ function textToAudio(){
     speech.volume = 1;
     speech.rate = 1;
     speech.pitch = 1;
+
+    speechSynthesis.speak(speech);
+}
