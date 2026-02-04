@@ -4,3 +4,4 @@ function textToAudio(){
 
     speech.lang = "en-US";
     speech.text = msg;
+    speech.volume = 1;
