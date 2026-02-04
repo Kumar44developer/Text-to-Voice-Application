@@ -54,5 +54,7 @@ body{
 
 .container button{
     width: 100%;
+    height: 50px;
+    border: none;
 
 
