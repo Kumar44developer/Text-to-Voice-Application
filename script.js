@@ -6,3 +6,4 @@ function textToAudio(){
     speech.text = msg;
     speech.volume = 1;
     speech.rate = 1;
+    speech.pitch = 1;
